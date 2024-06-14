@@ -27,3 +27,10 @@ By implementing the K-means clustering algorithm, the retail store will gain val
 
 ## Conclusion:
 Customer segmentation through K-means clustering is a powerful data-driven approach that can help retail businesses better understand their customer base and make informed decisions. By leveraging the insights gained from this project, the retail store can enhance its competitiveness, improve customer retention, and drive business growth.
+
+## Contact
+For any questions or feedback regarding the project, please feel free to contact me via the email provided below.
+
+- <a href="https://www.linkedin.com/in/devika-b-826637288/"> Devika B (LinkedIn)</a>
+
+- E-mail:- devikab140@gmail.com
